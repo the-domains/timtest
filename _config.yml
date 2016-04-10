@@ -1,0 +1,28 @@
+name: timtest
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.24019
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#010302'
+    - '#528d26'
+    - '#2b6513'
+    - '#13330b'
+    - '#90856a'
+  brandStrength: 0.5
+  lightness: 0.42610869836062193
+  saturation: 0
+  rhythmicContrast: 0.6632497862447053
+purpose: []
